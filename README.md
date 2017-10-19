@@ -3,4 +3,4 @@ This repository is used to collect all the weekly submissions in the Directed Fi
 
 The artifacts in this repository will relate to the learning outcomes described in the DWF Learning Outcomes
 
-[DWF Learning Outcomes](../gh-pages/General%20Overview.pdf)
+[DWF Learning Outcomes](../gh-pages/learning_outcomes.html)
